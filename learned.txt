@@ -1,0 +1,4 @@
+In this coding project I learned the following:
+
+-HasSet how it works and some methods to use
+-more understandability of how to use classes
